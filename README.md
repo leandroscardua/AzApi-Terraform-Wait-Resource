@@ -1,6 +1,6 @@
 # AzApi-Terraform-Wait-Resource
 
-## This is an example of how to wait for a resource to become available before initiating changes to it.
+## This is an example of how to check for resource availability without using a wait block before initiating changes to it.
 
 ## Requirements
 
